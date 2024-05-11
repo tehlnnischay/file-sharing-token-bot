@@ -1,15 +1,15 @@
 # 📁 File Sharing Token Bot
 
 <div align="center" style="border: 2px solid #e94560; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/HMMEDIA-MOVIES-blue" alt="Bot" width="150" style="border-radius: 10px;">
+  <img src="https://img.shields.io/badge/HMMEDIA-MOVIES-red" alt="Bot" width="150" style="border-radius: 10px;">
 </div>
 
 <p align="center">
-  <a href="https://t.me/HMmedia_Movie">
-    <img src="https://img.shields.io/badge/HMMEDIA-MOVIES-blue" alt="HMMEDIA MOVIES CHANNEL">
+  <a href="0">
+    <img src="0" alt="HMMEDIA MOVIES CHANNEL">
   </a>
-  <a href="https://t.me/HMmedia_Movie">
-    <img src="https://img.shields.io/badge/HMMEDIA-MOVIES-blue" alt="HMMEDIA MOVIES CHANNEL">
+  <a href="0">
+    <img src="0" alt="HMMEDIA MOVIES CHANNEL">
   </a>
 </p>
 
