@@ -87,7 +87,7 @@ stats - checking your bot uptime
 * `TG_BOT_TOKEN` Your bot token from @BotFather
 * `OWNER_ID` Must enter Your Telegram Id
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
-* `DB_URI ` Your mongo db url [tutorial video](https://youtu.be/qFB0cFqiyOM).
+* `DB_URI ` Your mongo db url [tutorial video](https://t.me/HMmedia_Movie).
 * `DB_name ` Your mongo db session name ( random )
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
 * `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
