@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://t.me/HMmedia_Movie">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Channel">
+    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="HMMEDIA MOVIES CHANNEL">
   </a>
   <a href="https://t.me/HMmedia_Movie">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Group">
+    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="HMMEDIA MOVIES CHANNEL">
   </a>
 </p>
 
