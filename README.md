@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="0">
-    <img src="0" alt="HMMEDIA MOVIES CHANNEL">
+    <img src="0" alt="">
   </a>
   <a href="0">
-    <img src="0" alt="HMMEDIA MOVIES CHANNEL">
+    <img src="0" alt="">
   </a>
 </p>
 
