@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/ultroid_official">
+  <a href="(https://t.me/HMmedia_Movie)">
     <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Channel">
   </a>
-  <a href="https://t.me/ultroidofficial_chat">
+  <a href="(https://t.me/HMmedia_Movie)">
     <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Group">
   </a>
 </p>
@@ -42,7 +42,7 @@ Click the button below to deploy the bot on Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-For a detailed deployment guide, watch [this tutorial video](https://youtu.be/7jBbBL9t9jI?si=j52MwTn41TXsc76l).
+For a detailed deployment guide, watch [this tutorial video](https://t.me/HMmedia_Movie).
 
 ### Deploy on Railway
 
