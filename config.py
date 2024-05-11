@@ -33,7 +33,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "HMMEDIA")
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "shrinkforearn.in")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "896974bfeae350cf13872c6b1e1e220c1e8d7189")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
-IS_VERIFY = os.environ.get("IS_VERIFY", "False")
+IS_VERIFY = os.environ.get("IS_VERIFY", "TRUE")
 TUT_VID = os.environ.get("TUT_VID", "https://youtube.com/shorts/drCJLujy8R0?si=i2QPmXcoUEACNTT5") # shareus ka tut_vid he 
 
 #force sub channel id, if you want enable force sub
