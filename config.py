@@ -23,7 +23,7 @@ PORT = os.environ.get("PORT", "8080")
 
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Hmmedia:hmmedia@hmmedia0.lttkndx.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://thor:7thor7@thor.aymqpdl.mongodb.net/?retryWrites=true&w=majority&appName=thor")
 DB_NAME = os.environ.get("DATABASE_NAME", "HMMEDIA")
 
 #Shortner (token system) 
