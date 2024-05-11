@@ -3,20 +3,20 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6515213086:AAE_LSrgS7hSH3fo1SycRxeD7PMNHwJmkFE")
 
 #Your API ID & API HASH from my.telegram.org [https://youtu.be/]
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", "22167428"))
+APP_ID = int(os.environ.get("APP_ID", "20781761"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "f936053286f724b8a1df69729b28a6af")
+API_HASH = os.environ.get("API_HASH", "1cec9c81b1a516535b201dd34c02f0d3")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001849039538"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002070273141"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "1674380302"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5146039165"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
@@ -30,14 +30,14 @@ DB_NAME = os.environ.get("DATABASE_NAME", "HMMEDIA")
 # check my discription to help by using my refer link of shareus.io
 # 
 
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "publicearn.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "b323441bc55ef14be63018992134d393a62a9da9")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "https://atglinks.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "055048e71b054fdbf1019c895a7316a253bda00b")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID", "https://youtube.com/shorts/drCJLujy8R0?si=i2QPmXcoUEACNTT5") # shareus ka tut_vid he 
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001849039538"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002144376541"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -45,7 +45,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.")
 try:
     ADMINS=[]
-    for x in (os.environ.get("ADMINS", "1674380302").split()):
+    for x in (os.environ.get("ADMINS", "6820525129").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
