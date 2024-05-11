@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="(https://t.me/HMmedia_Movie)">
+  <a href="https://t.me/HMmedia_Movie">
     <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Channel">
   </a>
-  <a href="(https://t.me/HMmedia_Movie)">
+  <a href="https://t.me/HMmedia_Movie">
     <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Group">
   </a>
 </p>
@@ -130,7 +130,7 @@ stats - checking your bot uptime
 
 
 💬 Support
-Join Our [Telegram Group](https://www.telegram.dog/ultroidofficial_chat) For Support/Assistance And Our [Channel](https://www.telegram.dog/ultroid_official) For Updates.   
+Join Our [Telegram Group](https://t.me/HMmedia_Movie) For Support/Assistance And Our [Channel](https://t.me/HMmedia_Movie963) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
