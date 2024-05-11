@@ -1,5 +1,5 @@
-#credit @codeflix_bots (telegram)
-# yt : https://www.youtube.com/@ultroidofficial
+#credit @HMmediaacontact_bot (telegram)
+# yt : https://www.youtube.com/
 
 """Get id of the replied user
 Syntax: /id"""
