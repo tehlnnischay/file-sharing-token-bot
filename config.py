@@ -10,7 +10,7 @@ TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7139853448:AAE47SXSq-dEcfkl5lBEop
 APP_ID = int(os.environ.get("APP_ID", "20781761"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "1cec9c81b1a516535b201dd34c02f0d3")
+API_HASH = os.environ.get("API_HASH", "1cec9c81b1a516535b201dd34c02f0d3"))
 
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002070273141"))
@@ -37,7 +37,7 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID", "https://t.me/howtoopenlinkkk66669/3") # shareus ka tut_vid he 
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002144376541")
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002144376541"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
