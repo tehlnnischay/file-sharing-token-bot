@@ -130,7 +130,7 @@ stats - checking your bot uptime
 
 
 💬 Support
-Join Our [Telegram Group](https://t.me/HMmedia_Movie) For Support/Assistance And Our [Channel](https://t.me/HMmedia_Movie963) For Updates.   
+Join Our [Telegram Group](https://t.me/blackworldbackup0) For Support/Assistance And Our [Channel](https://t.me/blackworldbackup0) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
