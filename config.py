@@ -30,8 +30,8 @@ DB_NAME = os.environ.get("DATABASE_NAME", "HMMEDIA")
 # check my discription to help by using my refer link of shareus.io
 # 
 
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "atglinks.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "055048e71b054fdbf1019c895a7316a253bda00b")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "publicearn.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "33a55d59dd06504127eb17067c5bc04ed4aed79c")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID", "https://t.me/howtoopenlinkkk66669/2") # shareus ka tut_vid he 
