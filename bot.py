@@ -56,7 +56,7 @@ class Bot(Client):
         self.set_parse_mode(ParseMode.HTML)
         self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/HMmedia_Movie")
         self.LOGGER(__name__).info(f""" \n\n       
-(っ◔◡◔)っ ♥ HMMEDIA_MOVIES ♥
+(っ◔◡◔)っ ♥ BLACKWORLD ♥
 ░╚════╝░░╚════╝░╚═════╝░╚══════╝
                                           """)
         self.username = usr_bot_me.username
